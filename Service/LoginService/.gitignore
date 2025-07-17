@@ -1,0 +1,43 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+.env.*.local
+
+# Build directories
+dist/
+build/
+.temp/
+.vite/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor folders
+.vscode/
+.idea/
+
+# Coverage reports
+coverage/
+
+# TypeScript output
+*.tsbuildinfo
+
+# Next.js or Nuxt
+.next/
+.nuxt/
+
+# PM2
+pids
+*.pid
+*.seed
+
+# Debug
+debug.log
